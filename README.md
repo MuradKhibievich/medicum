@@ -1,4 +1,4 @@
-# Medicum
+# MedQ
 
 Веб-приложение для прохождения и создания тестов. Работает полностью в браузере, без сервера и зависимостей. Все данные хранятся в localStorage.
 
@@ -22,7 +22,7 @@
 
 Скачать репозиторий:
 
-    git clone https://github.com/MuradKhibievich/medicum.git
+    git clone https://github.com/MuradKhibievich/MedQ.git
 
 Открыть index.html в браузере.
 
@@ -36,7 +36,7 @@
 Структура JSON:
 
     {
-      "format": "medicum.questions",
+      "format": "medq.questions",
       "version": 1,
       "title": "Название теста",
       "questions": [
@@ -50,7 +50,7 @@
 
 Поля:
 
-- format — фиксированная строка "medicum.questions"
+- format — фиксированная строка "medq.questions"
 - version — версия формата
 - title — название теста
 - questions[].q — текст вопроса
@@ -59,7 +59,7 @@
 
 ## Структура проекта
 
-    medicum/
+    MedQ/
     ├── index.html    # приложение (HTML + CSS + JS в одном файле)
     ├── README.md     # описание
     ├── LICENSE       # MIT
