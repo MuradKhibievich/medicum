@@ -22,7 +22,7 @@
 
 Скачать репозиторий:
 
-    git clone https://github.com/ТВОЙ_НИК/medicum.git
+    git clone https://github.com/MuradKhibievich/medicum.git
 
 Открыть index.html в браузере.
 
