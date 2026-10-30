@@ -22,7 +22,7 @@
 
 Скачать репозиторий:
 
-    git clone https://github.com/unwrittenmd/MedQ.git
+    git clone https://github.com/unknwnmd/MedQ.git
 
 Открыть index.html в браузере.
 
